@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 <img class="profile-picture" src="Twitter_pic.jpg" >
-<img class="img-thumbnail" src="lightning-bolt.png" width= "85">
+
 
 I'm a Lacrosse Player, [Event Organizer](https://www.unchain-convention.com/), and Bitcoin Enthusiast ⚡
 
@@ -18,3 +18,13 @@ Videos from our Games will be available [free on Youtube](https://www.youtube.co
 [Bits & Bolts](https://www.youtube.com/) is a YouTube show about people building on Bitcoin.
 
 [Burnt White Toast Podcast](http://burntwhitetoast.libsyn.com/episode-013-crypto-future-julian-and-leo) I appeared on this show way before I knew anything about what I was talking about. But its always nice to listen to what it sounded like in Dec. 2017
+
+## Lightning
+Please consider connecting to my Lightning Node: 02047f00ef7ddafac2f146f969dacfa0adb7b9acbb9f05495a56f1221a73f743f0@92.208.203.80:9735 
+Or send me a tip:
+<!-- Beginning of tippin.me Button -->
+<div id="tippin-button" data-dest="Btc_anyone"></div>
+<script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>
+<!-- End of tippin.me Button -->
+
+<img class="img-thumbnail" src="lightning-bolt.png" width= "85">
