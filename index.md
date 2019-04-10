@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="pic.jpg">
+<img class="Lightning_Bolt" src="lightning-bolt.png">
 
 I'm a Lacrosse Player, Event Organizer, and Bitcoin Enthusiast ⚡
 
