@@ -6,20 +6,14 @@ layout: default
 
 <img class="profile-picture" src="pic.jpg">
 
-I'm a Bitcoin programmer ⚡
+I'm a Lacrosse Player, Event Organizer, and Bitcoin Enthusiast ⚡
 
-## BUIDL Bootcamp
+## Current Lacrosse Team
 
-I run [BUIDL Bootcamp](https://buidlbootcamp.com), the first Bitcoin programming bootcamp. 
+I run with [Victoria Lacrosse](http://www.victoria-lacrosse.com/), one of the first Lacrosse programs in Germany. 
 
-Videos from our October 2018 cohort are available [free on Youtube](https://www.youtube.com/playlist?list=PLQ56Yiu6lEaxIPm9-GB5M393CmtYRZFGY).
+Videos from our Games will be available [free on Youtube](https://www.youtube.com/playlist?list=PLQ56Yiu6lEaxIPm9-GB5M393CmtYRZFGY). Please we need more people to film our games, so feel free to contact me if anyone is down to help grow the game. 
 
-## Bits & Bolts
-
-[Bits & Bolts](https://www.youtube.com/playlist?list=PLQ56Yiu6lEaw-oXyEnSjdLfqZSbWv2rrl) is a YouTube show about people building on Bitcoin. Since starting BUIDL Bootcamp I haven't had as much time to work on it as I want, but hopefully I will find time in the future.
-
-## Talks
-
-* [Austin Bitcoin Developers](https://youtu.be/gMmWhiDSius): Python-Bitcoinlib
-* (Upcoming) [Lightning Hackday NYC](https://lightninghackday.fulmo.org/): Why Satoshi's original payment channel implementation didn't work, and how Lighting Network fixed it
-* (Upcoming) [Advancing Bitcoin](https://www.advancingbitcoin.com/): Scaling BUIDL Bootcamp
+## Bitcoin 
+[Bits & Bolts](https://www.youtube.com/playlist?list=PLQ56Yiu6lEaw-oXyEnSjdLfqZSbWv2rrl) is a YouTube show about people building on Bitcoin.
+[Burnt White Toast Podcast](http://burntwhitetoast.libsyn.com/episode-013-crypto-future-julian-and-leo) I appeared on this show way before I knew anything about what I was talking about. But its always nice to listen to what it sounded like in Dec. 2017
