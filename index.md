@@ -16,4 +16,5 @@ Videos from our Games will be available [free on Youtube](https://www.youtube.co
 
 ## Bitcoin 
 [Bits & Bolts](https://www.youtube.com/playlist?list=PLQ56Yiu6lEaw-oXyEnSjdLfqZSbWv2rrl) is a YouTube show about people building on Bitcoin.
+
 [Burnt White Toast Podcast](http://burntwhitetoast.libsyn.com/episode-013-crypto-future-julian-and-leo) I appeared on this show way before I knew anything about what I was talking about. But its always nice to listen to what it sounded like in Dec. 2017
