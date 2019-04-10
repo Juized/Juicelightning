@@ -3,7 +3,7 @@ url: "https://juicylightning.com"
 baseurl:
 remote_theme: ankitsultana/researcher@gem
 markdown: kramdown
-github: [metadata]
+github: juized:f630bef01f74c78c96a8b1e7faa373f5dc408ecb
 tracking_id: #
 
 footer: yes
