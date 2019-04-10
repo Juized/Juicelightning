@@ -14,6 +14,7 @@ Currently offering my services in support of [Unchain 2019](https://www.unchain-
 Feel free to reach out to [me](mailto:julian@unchain-convention.com) if you'd like to participate in this years event!
 
 In the past Ive worked on:
+
  -[C3 Crypto-Conference, 2018](https://crypto-conference.com/2-days-ecosystem-building-c3/)
  
  -[Reggae on the Mountain](https://www.reggaeonthemountain.com/)
