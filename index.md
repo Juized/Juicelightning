@@ -6,7 +6,7 @@ layout: default
 <img class="profile-picture" src="Twitter_pic.jpg" >
 <img class="w3-border w3-padding" src="lightning-bolt.png" width= "85">
 
-I'm a Lacrosse Player, Event Organizer, and Bitcoin Enthusiast ⚡
+I'm a Lacrosse Player, [Event Organizer](https://www.unchain-convention.com/), and Bitcoin Enthusiast ⚡
 
 ## Current Lacrosse Team
 
