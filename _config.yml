@@ -19,7 +19,7 @@ plugins:
 
   
 nav:
- - name: "About"
-   link: "/researcher/"
+ - name: "DlaxV Stats"
+   link: "http://stats.pointbench.com/illph/2019/index.php?cmd=player-points"
  - name: "Contact"
    link: "https://twitter.com/Btc_anyone"
