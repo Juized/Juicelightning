@@ -6,7 +6,7 @@ layout: default
 <img class="profile-picture" src="Twitter_pic.jpg" >
 
 
-I'm a Lacrosse Player, [Event Organizer](https://www.unchain-convention.com/), and Bitcoin Enthusiast ⚡
+I'm an [Event Organizer](https://www.unchain-convention.com/), Lacrosse Player, and Bitcoin Enthusiast ⚡
 
 ## Events
 Currently offering my services in support of [Unchain 2019](https://www.unchain-convention.com/)
