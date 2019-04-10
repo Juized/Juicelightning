@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## About Me
-<img class="profile-picture" src="Twitter_pic.jpg" width="85" height="85">
+<img class="profile-picture" src="Twitter_pic.jpg" >
 <img class="Lightning_Bolt" src="lightning-bolt.png">
 
 I'm a Lacrosse Player, Event Organizer, and Bitcoin Enthusiast ⚡
