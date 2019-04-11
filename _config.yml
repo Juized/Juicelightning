@@ -5,7 +5,7 @@ remote_theme: ankitsultana/researcher@gem
 markdown: kramdown
 github: f630bef01f74c78c96a8b1e7faa373f5dc408ecb
 tracking_id: #
-repository: "Juicelightning"
+repository: "juicelightning"
 footer: yes
 footer_url: "https://github.com/juized"
 footer_text: "JRB Forked from Ankit Sultana"
