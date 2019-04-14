@@ -19,9 +19,9 @@ plugins:
 
   
 nav:
- - name: "Resume"
+ - name: "<b>Resume</b>"
    link: ""
  - name: "<b> DlaxV Stats-Ligapolka </b>"
    link: "http://stats.pointbench.com/illph/2019/index.php?cmd=player-points"
- - name: "Contact"
+ - name: "<b>Contact</b>"
    link: "https://twitter.com/Btc_anyone"
