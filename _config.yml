@@ -1,5 +1,5 @@
 title: Julian Ritz-Barr
-url: "https://julianritzbarr.tk"
+url: "https://julianritzbarr.com"
 baseurl:
 remote_theme: ankitsultana/researcher@gem
 markdown: kramdown
@@ -19,7 +19,9 @@ plugins:
 
   
 nav:
- - name: "DlaxV Stats"
+ - name: "Resume"
+   link: ""
+ - name: "Most Current Tournment points: DlaxV Stats"
    link: "http://stats.pointbench.com/illph/2019/index.php?cmd=player-points"
  - name: "Contact"
    link: "https://twitter.com/Btc_anyone"
