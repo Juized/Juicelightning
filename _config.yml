@@ -21,7 +21,7 @@ plugins:
 nav:
  - name: "Resume"
    link: ""
- - name: "Most Current Tournment points: DlaxV Stats"
+ - name: "## DlaxV Stats-Ligapolka ##"
    link: "http://stats.pointbench.com/illph/2019/index.php?cmd=player-points"
  - name: "Contact"
    link: "https://twitter.com/Btc_anyone"
