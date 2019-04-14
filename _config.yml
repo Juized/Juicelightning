@@ -20,7 +20,7 @@ plugins:
   
 nav:
  - name: "<b>Resume</b>"
-   link: "Rusume(pdf).pdf"
+   link: "https://juized.github.io/juicelightning/Rusume(pdf).pdf"
  - name: "<b> DlaxV Stats-Ligapolka </b>"
    link: "http://stats.pointbench.com/illph/2019/index.php?cmd=player-points"
  - name: "<b>Contact</b>"
