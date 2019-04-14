@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<title> Julian Ritz-Barr </title>
 
 ## About Me
 <img class="profile-picture" src="Twitter_pic.jpg" >
