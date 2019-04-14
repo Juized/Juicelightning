@@ -30,8 +30,7 @@ Videos from our Games will be available [free on Youtube](https://www.youtube.co
 
 ## Bitcoin & Lightning
 Please consider connecting to my Lightning Node:
-<img src="Lightning QR Code.png" alt= "QR_Code" style= "float:right">
-<b>02047f00ef7ddafac2f146f969dacfa0adb7b9acbb9f05495a56f1221a73f743f0@92.208.203.80:9735</b> <img src="lightning-bolt.png" alt="Lightning Bolt" style= "float:right;width:125px;height:70px;">
+<img src="Lightning QR Code.png" alt= "QR_Code" style= "float:right;width:50px;height:50px;"><b>02047f00ef7ddafac2f146f969dacfa0adb7b9acbb9f05495a56f1221a73f743f0@92.208.203.80:9735</b> <img src="lightning-bolt.png" alt="Lightning Bolt" style= "float:right;width:125px;height:70px;">
 Or send me a tip via Twitter/TippinMe:
 <!-- Beginning of tippin.me Button -->
 <div id="tippin-button" data-dest="Btc_anyone"></div>
