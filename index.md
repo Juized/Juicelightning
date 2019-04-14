@@ -2,7 +2,8 @@
 layout: default
 ---
 <title> Julian Ritz-Barr </title>
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 ## About Me
 <img class="profile-picture" src="Twitter_pic.jpg" >
 
