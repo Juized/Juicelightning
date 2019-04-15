@@ -10,18 +10,22 @@ layout: default
 
 I'm an [Event Organizer](https://www.unchain-convention.com/), Lacrosse Player, and Bitcoin Enthusiast ⚡
 
-## Events
+## Current Events
+
 Currently offering my services in support of [Unchain 2019](https://www.unchain-convention.com/)
-Feel free to reach out to [me](mailto:julian@unchain-convention.com) if you'd like to participate in this year's event!
+Feel free to reach out to [me](mailto:julian@unchain-convention.com) if you'd like to participate in this year's event!  <br>
+<a href= "https://www.unchain-convention.com/">
+<img src= "Unchain_logo.png" alt="Unchain_logo" style= "width:200px;height:142px"><br>
+<a href="https://lightninghackday.fulmo.org/" rel="home">
+<img src= "Lightninghackday-Logo-dark-MUC.png" style= "width:400px;height:86px" alt= "#LightningHackday" class="light-logo">   
+<a href="https://www.reggaeonthemountain.com/">
+<img src= "ROTM19_Poster.png" style= "width:300px;height:126px">
+<br>
 
-In the past I've worked on:
+## Past Events 
+-[C3 Crypto-Conference, 2018](https://crypto-conference.com/2-days-ecosystem-building-c3/)<br>
+-[ROTM , 2018](https://www.facebook.com/events/the-topanga-community-center/reggae-on-the-mountain-2018-9th-annual-la-reggae-fest/950326008454772/)
 
- -[Lightning Hackdays](https://lightninghackday.fulmo.org)
-
- -[C3 Crypto-Conference, 2018](https://crypto-conference.com/2-days-ecosystem-building-c3/)
- 
- -[Reggae on the Mountain](https://www.reggaeonthemountain.com/)
- 
 ## Current Lacrosse Team
 
 I run with [Victoria Lacrosse](http://www.victoria-lacrosse.com/), one of the first Lacrosse programs in Germany. 
