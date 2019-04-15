@@ -14,9 +14,7 @@ I'm an [Event Organizer](https://www.unchain-convention.com/), Lacrosse Player, 
 
 Currently offering my services in support of [Unchain 2019](https://www.unchain-convention.com/)
 Feel free to reach out to [me](mailto:julian@unchain-convention.com) if you'd like to participate in this year's event!<br>
-<a href= "https://www.unchain-convention.com/"><img src= "Unchain_logo.png" alt="Unchain_logo" alt= "Unchain_logo" style= "float:center;width:200px;height:142px"><a href="https://lightninghackday.fulmo.org/" rel="home"><img src= "Lightninghackday-Logo-dark-MUC.png" style= "float:center;width:400px;height:86px" alt= "#LightningHackday" class="light-logo"><a href="https://www.reggaeonthemountain.com/"><img src= "ROTM19_Poster.png" alt= "ROTM19_Poster" style= "float:left;width:300px;height:126px">
-<br>
-
+<a href= "https://www.unchain-convention.com/"><img src= "Unchain_logo.png" alt="Unchain_logo" alt= "Unchain_logo" style= "width:200px;height:142px"><a href="https://lightninghackday.fulmo.org/" rel="home"><img src= "Lightninghackday-Logo-dark-MUC.png" style= "width:400px;height:86px" alt= "#LightningHackday" class="light-logo"><a href="https://www.reggaeonthemountain.com/"><img src= "ROTM19_Poster.png" alt= "ROTM19_Poster" style= "float:left;width:300px;height:126px">
 ## Past Events 
 -[C3 Crypto-Conference, 2018](https://crypto-conference.com/2-days-ecosystem-building-c3/)<br>
 -[ROTM , 2018](https://www.facebook.com/events/the-topanga-community-center/reggae-on-the-mountain-2018-9th-annual-la-reggae-fest/950326008454772/)
