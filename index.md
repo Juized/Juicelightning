@@ -14,7 +14,7 @@ I'm an [Event Organizer](https://www.unchain-convention.com/), Lacrosse Player, 
 
 Currently offering my services in support of [Unchain 2019](https://www.unchain-convention.com/)
 Feel free to reach out to [me](mailto:julian@unchain-convention.com) if you'd like to participate in this year's event!<br>
-<a href= "https://www.unchain-convention.com/"><img src= "Unchain_logo.png" alt="Unchain_logo" alt= "Unchain_logo" style= "width:200px;height:142px"><a href="https://lightninghackday.fulmo.org/" rel="home"><img src= "Lightninghackday-Logo-dark-MUC.png" style= "width:400px;height:86px" alt= "#LightningHackday" class="light-logo"><a href="https://www.reggaeonthemountain.com/"><img src= "ROTM19_Poster.png" alt= "ROTM19_Poster" style= "float:left;width:300px;height:126px">
+<a href= "https://www.unchain-convention.com/"><img src= "Unchain_logo.png" alt="Unchain_logo" alt= "Unchain_logo" style= "width:200px;height:142px"><a href="https://lightninghackday.fulmo.org/" rel="home"><img src= "Lightninghackday-Logo-dark-MUC.png" style= "float:center;width:400px;height:86px" alt= "#LightningHackday" class="light-logo"><a href="https://www.reggaeonthemountain.com/"><img src= "ROTM19_Poster.png" alt= "ROTM19_Poster" style= "float:left;width:300px;height:126px">
 ## Past Events 
 -[C3 Crypto-Conference, 2018](https://crypto-conference.com/2-days-ecosystem-building-c3/)<br>
 -[ROTM , 2018](https://www.facebook.com/events/the-topanga-community-center/reggae-on-the-mountain-2018-9th-annual-la-reggae-fest/950326008454772/)
@@ -30,7 +30,7 @@ I run with [Victoria Lacrosse](http://www.victoria-lacrosse.com/), one of the fi
 Videos from our Games will be available [free on Youtube](https://www.youtube.com/playlist?list=PLQ56Yiu6lEaxIPm9-GB5M393CmtYRZFGY). Please we need more people to film our games, so feel free to contact me if anyone is down to help grow the game. 
 
 ## Bitcoin & Lightning
-<a href="https://juized.github.io/juicelightning/Lightning_QR_Code">
+<a href="https://juized.github.io/juicelightning/Lightning_QR_Code.png">
 <img src="lightning-bolt.png" alt="Lightning Bolt" style= "float:right;width:125px;height:70px;">
 Please consider connecting to my Lightning Node:<b>02047f00ef7ddafac2f146f969dacfa0adb7b9acbb9f05495a56f1221a73f743f0@92.208.203.80:9735</b> 
 
