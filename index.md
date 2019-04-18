@@ -32,15 +32,14 @@ Videos from our Games will be available [free on Youtube](https://www.youtube.co
 ## Bitcoin & Lightning
 Please consider connecting to my Lightning Node:
 <b>02047f00ef7ddafac2f146f969dacfa0adb7b9acbb9f05495a56f1221a73f743f0@92.208.203.80:9735</b>
-
-  <img src="lightning-bolt.png" alt="Lightning Bolt" style= "float:right;width:125px;height:70px;"/>
-  <a href="https://juized.github.io/juicelightning/qrcode.png"/><figcaption> Click on the Lightning Bolt for QR code!</figcaption></a href>
-
-
+<a href= "http://juized.github.io/juicelightning/qrcode.png">
+![lightning-bolt](lightning-bolt.png){:style="float:right;width:125px;height:70px;"} 
+*Click for QR CODE*<br>
 Or send me a tip via Twitter/TippinMe:
 <!-- Beginning of tippin.me Button -->
 <div id="tippin-button" data-dest="Btc_anyone"></div>
 <script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>
 <!-- End of tippin.me Button -->
 [Burnt White Toast Podcast](http://burntwhitetoast.libsyn.com/episode-013-crypto-future-julian-and-leo) <br> I appeared on this show way before I knew anything about what I was talking about. But its always nice to listen to what it sounded like in Dec. 2017
+
 
