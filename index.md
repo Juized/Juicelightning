@@ -35,7 +35,7 @@ Please consider connecting to my Lightning Node:
 <a href="https://juized.github.io/juicelightning/qrcode.png">
 <img src="lightning-bolt.png" alt="Lightning Bolt" style= "float:right;width:125px;height:70px;"/>
 <figcaption> Click on the Lightning Bolt for QR code!"</figcaption>
-
+</a href>
 Or send me a tip via Twitter/TippinMe:
 <!-- Beginning of tippin.me Button -->
 <div id="tippin-button" data-dest="Btc_anyone"></div>
