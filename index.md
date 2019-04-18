@@ -34,8 +34,8 @@ Please consider connecting to my Lightning Node:
 <b>02047f00ef7ddafac2f146f969dacfa0adb7b9acbb9f05495a56f1221a73f743f0@92.208.203.80:9735</b>
 
   <img src="lightning-bolt.png" alt="Lightning Bolt" style= "float:right;width:125px;height:70px;"/>
-  <li><a href="https://juized.github.io/juicelightning/qrcode.png"/> 
-  <figcaption> Click on the Lightning Bolt for QR code! </figcaption> </a></li>
+  <a href="https://juized.github.io/juicelightning/qrcode.png"/><figcaption> Click on the Lightning Bolt for QR code!</figcaption></a href>
+
 
 Or send me a tip via Twitter/TippinMe:
 <!-- Beginning of tippin.me Button -->
