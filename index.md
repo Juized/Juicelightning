@@ -32,10 +32,12 @@ Videos from our Games will be available [free on Youtube](https://www.youtube.co
 ## Bitcoin & Lightning
 Please consider connecting to my Lightning Node:
 <b>02047f00ef7ddafac2f146f969dacfa0adb7b9acbb9f05495a56f1221a73f743f0@92.208.203.80:9735</b>
-<a href="https://juized.github.io/juicelightning/qrcode.png">
-<img src="lightning-bolt.png" alt="Lightning Bolt" style= "float:right;width:125px;height:70px;"/>
-<figcaption> Click on the Lightning Bolt for QR code!"</figcaption>
-</a href>
+<figure>
+  <img src="lightning-bolt.png" alt="Lightning Bolt" style= "float:right;width:125px;height:70px;"/>
+  <a href="https://juized.github.io/juicelightning/qrcode.png"/> </a href>
+  <figcaption> Click on the Lightning Bolt for QR code! </figcaption>
+</figure>
+
 Or send me a tip via Twitter/TippinMe:
 <!-- Beginning of tippin.me Button -->
 <div id="tippin-button" data-dest="Btc_anyone"></div>
