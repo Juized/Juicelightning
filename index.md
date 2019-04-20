@@ -44,8 +44,3 @@ Please consider connecting to my Lightning Node:
 [Burnt White Toast Podcast](http://burntwhitetoast.libsyn.com/episode-013-crypto-future-julian-and-leo) <br> I appeared on this show way before I knew anything about what I was talking about. But its always nice to listen to what it sounded like in Dec. 2017
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/6049364/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-<div class="col-lg-4 col-md-5 col-sm-5 col-xs-12">
-<h3>Want a Guaranteed Response?</h3>
-<p>
-<button type="button" class="btn btn-success" onclick="location.href='https://earn.com/juized/'">Get in touch on earn.com</button>
-</p>
