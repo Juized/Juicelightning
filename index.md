@@ -30,8 +30,7 @@ I run with [Victoria Lacrosse](http://www.victoria-lacrosse.com/), one of the fi
 Videos from our Games will be available [free on Youtube](https://www.youtube.com/playlist?list=PLQ56Yiu6lEaxIPm9-GB5M393CmtYRZFGY). Please we need more people to film our games, so feel free to contact me if anyone is down to help grow the game. 
 
 ## Bitcoin & Lightning
-If you'd like to earn some Cash for responding to emails from people who arent in your contact book, sign up to EARN.COM with my referal code:<br>
-earn.com/juized/referral/?a=f5l0ns62aauieip2<br>
+
 Please consider connecting to my Lightning Node:
 <b>02047f00ef7ddafac2f146f969dacfa0adb7b9acbb9f05495a56f1221a73f743f0@92.208.203.80:9735</b>
 <a href= "http://juized.github.io/juicelightning/qrcode.png">
@@ -42,6 +41,13 @@ Please consider connecting to my Lightning Node:
 <div id="tippin-button" data-dest="Btc_anyone"></div>
 <script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>
 <!-- End of tippin.me Button -->
+
+If you'd like to earn some Cash for responding to emails from people who arent in your contact book, sign up to EARN.COM with my referal code:<br>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-12">
+<h3>Want to Earn BTC while answering emails?</h3>
+<p>
+<button type="button" class="btn btn-success" onclick="location.href='earn.com/juized/referral/?a=f5l0ns62aauieip2'">Sign Up with earn.com</button>
+</p>
 
 [Burnt White Toast Podcast](http://burntwhitetoast.libsyn.com/episode-013-crypto-future-julian-and-leo) <br> I appeared on this show way before I knew anything about what I was talking about. But its always nice to listen to what it sounded like in Dec. 2017
 
