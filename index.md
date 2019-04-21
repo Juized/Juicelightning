@@ -44,11 +44,11 @@ Please consider connecting to my Lightning Node:
 <br>
 If you'd like to earn some Cash for responding to emails from people who arent in your contact book, sign up to EARN.COM with my referal code:<br>
 <div class="col-lg-4 col-md-5 col-sm-5 col-xs-12">
-<h3>Want to Earn to answer Emails?</h3>
+<h3>Want to Earn BTC to answer Emails?</h3>
 <p>
-<button type="button" class="btn btn-success" onclick="location.href='https://earn.com/juized/referral/?a=f5l0ns62aauieip2'">Get in touch on earn.com</button>
+<button type="button" class="btn btn-success" onclick="location.href='https://earn.com/juized/referral/?a=f5l0ns62aauieip2'">Apply with earn.com</button>
 </p>
-<p>
+
 [Burnt White Toast Podcast](http://burntwhitetoast.libsyn.com/episode-013-crypto-future-julian-and-leo) <br> I appeared on this show way before I knew anything about what I was talking about. But its always nice to listen to what it sounded like in Dec. 2017
-  </p>
+
 
