@@ -1,15 +1,11 @@
 ---
 layout: default
 ---
-<title> Julian Ritz-Barr </title>
 <link rel="shortcut icon" type="image/x-icon" href="http://juized.github.io/juicelightning/favicon.ico">
-
+<title> Julian Ritz-Barr </title>
 ## About Me
-<img class="profile-picture" alt= "profile_pic" src="Twitter_pic.jpg" >
-
-
+<img class="profile-picture" alt= "profile_pic" src="Twitter_pic.jpg" 
 I'm an [Event Organizer](https://www.unchain-convention.com/), Lacrosse Player, and Bitcoin Enthusiast ⚡
-
 ## Current Events
 
 Currently offering my services in support of [Unchain 2019](https://www.unchain-convention.com/)
