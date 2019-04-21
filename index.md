@@ -46,7 +46,7 @@ If you'd like to earn some Cash for responding to emails from people who arent i
 <div class="col-lg-4 col-md-5 col-sm-5 col-xs-12">
 <h3>Want to Earn BTC while answering emails?</h3>
 <p>
-<button type="button" class="btn btn-success" onclick="location.href=earn.com/juized/referral/?a=f5l0ns62aauieip2">Sign Up with earn.com</button>
+<button type="button" class="btn btn-success" onclick="location.href='earn.com/juized/referral/?a=f5l0ns62aauieip2'">Sign Up with earn.com</button>
 </p>
 
 [Burnt White Toast Podcast](http://burntwhitetoast.libsyn.com/episode-013-crypto-future-julian-and-leo) <br> I appeared on this show way before I knew anything about what I was talking about. But its always nice to listen to what it sounded like in Dec. 2017
