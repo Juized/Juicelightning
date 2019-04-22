@@ -19,7 +19,7 @@ is_contact: true
 ---
 
 ## Social
-Github: [juized](https://github.com/juized)
+Github: [juized](https://github.com/juized) <br>
 Twitter: [@btc_anyone](https://twitter.com/Btc_anyone)
 
 <div class="col-lg-4 col-md-5 col-sm-5 col-xs-12">
