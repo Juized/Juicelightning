@@ -45,5 +45,14 @@ If you'd like to earn some Cash for responding to emails from people who arent i
 <p>
 <button type="button" class="btn btn-success" onclick="location.href='https://earn.com/juized/referral/?a=f5l0ns62aauieip2'">Apply with earn.com</button>
 </p>
-
+<br>
 [Burnt White Toast Podcast](http://burntwhitetoast.libsyn.com/episode-013-crypto-future-julian-and-leo) <br> I appeared on this show way before I knew anything about what I was talking about. But its always nice to listen to what it sounded like in Dec. 2017
+
+<form method="POST" action="https://mainnet.demo.btcpayserver.org/apps/24AkK54geQdkbd8rLCZ1mBEJ2geT/pos">
+  <input type="hidden" name="amount" value="100" />
+  <input type="hidden" name="email" value="customer@example.com" />
+  <input type="hidden" name="orderId" value="CustomOrderId" />
+  <input type="hidden" name="notificationUrl" value="https://example.com/callbacks" />
+  <input type="hidden" name="redirectUrl" value="https://example.com/thanksyou" />
+  <button type="submit">Buy now</button>
+</form>
