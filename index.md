@@ -48,11 +48,10 @@ If you'd like to earn some Cash for responding to emails from people who arent i
 <br>
 [Burnt White Toast Podcast](http://burntwhitetoast.libsyn.com/episode-013-crypto-future-julian-and-leo) <br> I appeared on this show way before I knew anything about what I was talking about. But its always nice to listen to what it sounded like in Dec. 2017
 
-<form method="POST" action="https://mainnet.demo.btcpayserver.org/apps/24AkK54geQdkbd8rLCZ1mBEJ2geT/pos">
-  <input type="hidden" name="amount" value="100" />
-  <input type="hidden" name="email" value="customer@example.com" />
-  <input type="hidden" name="orderId" value="CustomOrderId" />
-  <input type="hidden" name="notificationUrl" value="https://example.com/callbacks" />
-  <input type="hidden" name="redirectUrl" value="https://example.com/thanksyou" />
-  <button type="submit">Buy now</button>
+<form method="POST" action="https://mainnet.demo.btcpayserver.org/api/v1/invoices">
+    <input type="hidden" name="storeId" value="AFrfoppgpwuVWwdRn27XukApRgGhGHeWrvgcB8yG4RBD" />
+    <input type="hidden" name="price" value="6" />
+    <input type="hidden" name="currency" value="USD" />
+    <input type="hidden" name="checkoutDesc" value="Buy me a Beer" />
+    <input type="image" src="https://mainnet.demo.btcpayserver.org/img/paybutton/pay.png" name="submit" style="width:209px" alt="Pay with BtcPay, Self-Hosted Bitcoin Payment Processor">
 </form>
