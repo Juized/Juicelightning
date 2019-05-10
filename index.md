@@ -53,4 +53,4 @@ If you'd like to earn some Cash for responding to emails from people who arent i
     <input type="hidden" name="currency" value="USD" />
     <input type="image" src="https://juized.github.io/juicelightning/bitcoin-donations-accepted.png" name="submit" style="width:146px" alt="Pay with BtcPay, Self-Hosted Bitcoin Payment Processor">
 </form>
-<p>[Burnt White Toast Podcast](http://burntwhitetoast.libsyn.com/episode-013-crypto-future-julian-and-leo) <br /> I appeared on this show way before I knew anything about what I was talking about. But its always nice to listen to what it sounded like in Dec. 2017</p>
+<title>Burnt White Toast Podcast</title>(http://burntwhitetoast.libsyn.com/episode-013-crypto-future-julian-and-leo) <br /> I appeared on this show way before I knew anything about what I was talking about. But its always nice to listen to what it sounded like in Dec. 2017
