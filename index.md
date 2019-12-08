@@ -27,7 +27,14 @@ I run with [Victoria Lacrosse](http://www.victoria-lacrosse.com/), one of the fi
 Videos from our Games will be available [free on Youtube](https://www.youtube.com/playlist?list=PLQ56Yiu6lEaxIPm9-GB5M393CmtYRZFGY). Please we need more people to film our games, so feel free to contact me if anyone is down to help grow the game.
 
 ## Bitcoin & Lightning
-
+<form method="POST" action="http://fqfflygfxbrotvnpuogzzyfpkeiisa5mmjhbtbrhe33z5gbpngt37cyd.onion/apps/e8BMfFQViC9t4rifJTSzAneudhZ/pos">
+  <input type="hidden" name="amount" value="100" />
+  <input type="hidden" name="email" value="customer@example.com" />
+  <input type="hidden" name="orderId" value="CustomOrderId" />
+  <input type="hidden" name="notificationUrl" value="https://example.com/callbacks" />
+  <input type="hidden" name="redirectUrl" value="https://example.com/thanksyou" />
+  <button type="submit">Buy now</button>
+</form>
 <b></b>
 
 ![lightning-bolt](lightning-bolt.png){:style="float:right;width:125px;height:70px;"}
@@ -39,11 +46,7 @@ Videos from our Games will be available [free on Youtube](https://www.youtube.co
 <!-- End of tippin.me Button -->
 <br>
 If you'd like to earn some Cash for responding to emails from people who arent in your contact book, sign up to EARN.COM with my referal code:<br>
-<div class="col-lg-4 col-md-5 col-sm-5 col-xs-12">
-<h3>Want to Earn BTC to answer Emails?</h3>
-<p>
-<button type="button" class="btn btn-success" onclick="location.href='https://earn.com/juized/referral/?a=f5l0ns62aauieip2'">Apply with earn.com</button>
-</p>
+
 <form method="POST" action="https://btcpayserver.ddns.net/api/v1/invoices">
     <input type="hidden" name="storeId" value="AszgQ4xRwYaLZtruYoH4mv6TS6XagZCXTDhitcVvYBj7" />
     <input type="hidden" name="price" value="10" />
