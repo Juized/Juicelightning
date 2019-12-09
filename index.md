@@ -27,28 +27,17 @@ I run with [Victoria Lacrosse](http://www.victoria-lacrosse.com/), one of the fi
 Videos from our Games will be available [free on Youtube](https://www.youtube.com/playlist?list=PLQ56Yiu6lEaxIPm9-GB5M393CmtYRZFGY). Please we need more people to film our games, so feel free to contact me if anyone is down to help grow the game.
 
 ## Bitcoin & Lightning
-<form method="POST" action="http://fqfflygfxbrotvnpuogzzyfpkeiisa5mmjhbtbrhe33z5gbpngt37cyd.onion/apps/e8BMfFQViC9t4rifJTSzAneudhZ/pos">
-  <input type="hidden" name="amount" value="100" />
-  <input type="hidden" name="email" value="customer@example.com" />
-  <input type="hidden" name="orderId" value="CustomOrderId" />
-  <input type="hidden" name="notificationUrl" value="https://example.com/callbacks" />
-  <input type="hidden" name="redirectUrl" value="https://example.com/thanksyou" />
-  <button type="submit">Buy now</button>
-</form>
-<b></b>
 
 ![lightning-bolt](lightning-bolt.png){:style="float:right;width:125px;height:70px;"}
-
-
 <!-- Beginning of tippin.me Button -->
 <div id="tippin-button" data-dest="Btc_anyone"></div>
 <script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>
 <!-- End of tippin.me Button -->
-<br>
-If you'd like to earn some Cash for responding to emails from people who arent in your contact book, sign up to EARN.COM with my referal code:<br>
-
+## Tip me anyamount
+<iframe src='https://juizedpay.chickenkiller.com/apps/e8BMfFQViC9t4rifJTSzAneudhZ/pos' style='max-width: 100%; border: 0;'></iframe>
+## $15 Tip
 <form method="POST" action="https://juizedpay.chickenkiller.com/apps/e8BMfFQViC9t4rifJTSzAneudhZ/pos">
-  <input type="hidden" name="amount" value="100" />
+  <input type="hidden" name="amount" value="15" />
   <input type="hidden" name="email" value="customer@example.com" />
   <input type="hidden" name="orderId" value="CustomOrderId" />
   <input type="hidden" name="notificationUrl" value="https://example.com/callbacks" />
