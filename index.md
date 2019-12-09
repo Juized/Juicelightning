@@ -34,5 +34,5 @@ Videos from our Games will be available [free on Youtube](https://www.youtube.co
 <script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>
 <!-- End of tippin.me Button -->
 ## Tip Me
-<iframe src='https://juizedpay.chickenkiller.com/apps/e8BMfFQViC9t4rifJTSzAneudhZ/pos' style='max-width: 100%; border: 0;'></iframe>
+<iframe src='https://juizedpay.chickenkiller.com/apps/e8BMfFQViC9t4rifJTSzAneudhZ/pos' style='max-width: 100%; max-length: 100%; border: 0;'></iframe>
 
