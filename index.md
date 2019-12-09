@@ -47,11 +47,13 @@ Videos from our Games will be available [free on Youtube](https://www.youtube.co
 <br>
 If you'd like to earn some Cash for responding to emails from people who arent in your contact book, sign up to EARN.COM with my referal code:<br>
 
-<form method="POST" action="https://btcpayserver.ddns.net/api/v1/invoices">
-    <input type="hidden" name="storeId" value="AszgQ4xRwYaLZtruYoH4mv6TS6XagZCXTDhitcVvYBj7" />
-    <input type="hidden" name="price" value="10" />
-    <input type="hidden" name="currency" value="USD" />
-    <input type="image" src="https://btcpayserver.ddns.net/img/paybutton/pay.png" name="submit" style="width:209px" alt="Pay with BtcPay, Self-Hosted Bitcoin Payment Processor">
+<form method="POST" action="https://juizedpay.chickenkiller.com/apps/e8BMfFQViC9t4rifJTSzAneudhZ/pos">
+  <input type="hidden" name="amount" value="100" />
+  <input type="hidden" name="email" value="customer@example.com" />
+  <input type="hidden" name="orderId" value="CustomOrderId" />
+  <input type="hidden" name="notificationUrl" value="https://example.com/callbacks" />
+  <input type="hidden" name="redirectUrl" value="https://example.com/thanksyou" />
+  <button type="submit">Buy now</button>
 </form>
 
 <title>Burnt White Toast Podcast</title>http://burntwhitetoast.libsyn.com/episode-013-crypto-future-julian-and-leo  <br /> I appeared on this show way before I knew anything about what I was talking about. But its always nice to listen to what it sounded like in Dec. 2017
