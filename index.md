@@ -33,16 +33,7 @@ Videos from our Games will be available [free on Youtube](https://www.youtube.co
 <div id="tippin-button" data-dest="Btc_anyone"></div>
 <script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>
 <!-- End of tippin.me Button -->
-## Tip me anyamount
+## Tip Me
 <iframe src='https://juizedpay.chickenkiller.com/apps/e8BMfFQViC9t4rifJTSzAneudhZ/pos' style='max-width: 100%; border: 0;'></iframe>
-## $15 Tip
-<form method="POST" action="https://juizedpay.chickenkiller.com/apps/e8BMfFQViC9t4rifJTSzAneudhZ/pos">
-  <input type="hidden" name="amount" value="15" />
-  <input type="hidden" name="email" value="customer@example.com" />
-  <input type="hidden" name="orderId" value="CustomOrderId" />
-  <input type="hidden" name="notificationUrl" value="https://example.com/callbacks" />
-  <input type="hidden" name="redirectUrl" value="https://example.com/thanksyou" />
-  <button type="submit">Buy now</button>
-</form>
 
 <title>Burnt White Toast Podcast</title>http://burntwhitetoast.libsyn.com/episode-013-crypto-future-julian-and-leo  <br /> I appeared on this show way before I knew anything about what I was talking about. But its always nice to listen to what it sounded like in Dec. 2017
