@@ -34,5 +34,12 @@ Videos from our Games will be available [free on Youtube](https://www.youtube.co
 <script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>
 <!-- End of tippin.me Button -->
 ## Tip Me
-<iframe src='https://juizedpay.chickenkiller.com/apps/e8BMfFQViC9t4rifJTSzAneudhZ/pos' style='max-width: 100%; max-length: 100%; border: 0;'></iframe>
 
+<form method="POST" action="https://juizedpay.chickenkiller.com/apps/3Ah2CMC69q7j82hveTo8kUqtHSF9/pos">
+  <input type="hidden" name="amount" value="100" />
+  <input type="hidden" name="email" value="customer@example.com" />
+  <input type="hidden" name="orderId" value="CustomOrderId" />
+  <input type="hidden" name="notificationUrl" value="https://example.com/callbacks" />
+  <input type="hidden" name="redirectUrl" value="https://example.com/thanksyou" />
+  <button type="submit">Buy now</button>
+</form>
